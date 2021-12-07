@@ -1,0 +1,18 @@
+{
+  "name": "babel-overload-plugin",
+  "version": "1.0.0",
+  "description": "Call functions as binary expression",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgjr2/babel-overload-plugin.git"
+  },
+  "author": "Juraj Martićek",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/georgjr2/babel-overload-plugin/issues"
+  },
+  "homepage": "https://github.com/georgjr2/babel-overload-plugin#readme",
+  "dependencies": {
+    "@babel/core": "^7.16.0"
+  }
+}
